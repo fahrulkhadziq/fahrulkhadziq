@@ -45,28 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=fahrulkhadziq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fahrulkhadziq&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=fahrulkhadziq&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## Contribution
 
 <div align="center">
@@ -101,7 +79,7 @@
 
 ## ⚡ Quote
 
-> “First, solve the problem. Then, write the code.”
+> “Don't repeat yourself.”
 
 ---
 
